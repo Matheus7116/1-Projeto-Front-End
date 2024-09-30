@@ -1,0 +1,28 @@
+{
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+       "[javascriptreact]": {
+        "editor.fortmatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.fontSize": 18,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Dracula Theme",
+    "liveServer.settings.donotVerifyTags": true,
+    "glassit.alpha": 220,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+    
+}
+
+ 
